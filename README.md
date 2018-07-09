@@ -41,7 +41,7 @@ Porto Alegre (RS), **Brazil**
 
 [**SciPy Latin America**](http://scipyla.org/conf/2018/)  
 [Chamada a voluntários](http://scipyla.org/conf/2018/get_involved/)  
-Call for papers **soon**  
+[Call for papers](https://www.papercall.io/scipyla2018) (closes July 22)
 29 August to 1 September, 2018  
 Curitiba (PR), **Brazil**
 
